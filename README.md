@@ -19,7 +19,7 @@
 + **E-mail: d1024.choi@etri.re.kr / d1024.choi@ust.ac.kr**
 
 ## Notice
-I am looking to recruit one master or PhD students in Spring, 2024. If you are interested in our [research](https://adir-etri.github.io/), please do not hesitate to contact me.
+I am looking to recruit one master or PhD student in Spring, 2024. If you are interested in our [research](https://adir-etri.github.io/), please do not hesitate to contact me.
 
   
 ## Publications
