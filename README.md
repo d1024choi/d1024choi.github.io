@@ -25,7 +25,7 @@ I am looking to recruit one master or PhD student in Spring, 2024. If you are in
 ## Publications
 \* corresponding author
 
-+ **[Intl. Jour.] T. An\*, J, Kang, <ins>D. Choi</ins>, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal. (Accepted)**
++ **[Intl. Jour.] T. An\*, J, Kang, <ins>D. Choi</ins>, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal, 2023.**
 
 + **[Intl. Conf.] Y. S. Park, <ins>D. Choi</ins>, K. Min, "Performance Comparison of SAC methods for
 Radar Dynamic Object Classification," The 18th Intl. Conf. on IAS.** 
