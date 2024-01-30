@@ -18,6 +18,9 @@
 ## Contact
 + **E-mail: d1024.choi@etri.re.kr / d1024.choi@ust.ac.kr**
 
+## Notice
++ If you are interested in our [research team](https://adir-etri.github.io/), feel free to reach out to me through the e-mail addresses.
+
   
 ## Publications
 \* corresponding author
