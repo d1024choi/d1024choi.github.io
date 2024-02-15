@@ -11,6 +11,7 @@
 
 ## Research Interests
 + **Motion Forecasting & Planning**
++ **3D Perception from monocular images**
 + **Autonomous Driving**
 + **Machine Learning**
 + **Computer Vision**
