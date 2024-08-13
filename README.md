@@ -66,6 +66,6 @@ Radar Dynamic Object Classification," The 18th Intl. Conf. on IAS.**
 + **[Intl. Conf.] <ins>D. Choi</ins>, H.-K. Jung, H. Choi, T. Kim "Digital Audio Watermarking using Moment-Preserving Thresholding," Proc. SPIE 6700, Mathematics of Data/Image Pattern Recognition, Compression, Coding, and Encryption X, with Applications, 2007.** 
 
 ## Academic Services
-+ **Reviewer: ICMLA2018, ECCV2022, CVPR2023, ETRIJ, ECCV2024**
++ **Reviewer: ICMLA2018, ECCV2022, CVPR2023, ETRIJ, ECCV2024, Scientific Reports**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd1024choi%2Fd1024choi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
