@@ -26,9 +26,9 @@
 ## Publications
 \* corresponding author
 
-+ **[Intl. Conf.] <ins>M. Rahman</ins>, D. Choi, S.-I. Lee, K.-W. Min, "Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models," The 17th Intl. Conf. on Advanced Computational Intelligence.**
++ **[Intl. Conf.] M. Rahman\*, <ins>D. Choi</ins>, S.-I. Lee, K.-W. Min, "Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models," The 17th Intl. Conf. on Advanced Computational Intelligence.**
 
-+ **[Intl. Conf.] <ins>M. Rahman</ins>, D. Choi, K.-W. Min, "LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction," The 17th Intl. Conf. on Advanced Computational Intelligence.**
++ **[Intl. Conf.] M. Rahman\*, <ins>D. Choi</ins>, K.-W. Min, "LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction," The 17th Intl. Conf. on Advanced Computational Intelligence.**
 
 + **[Intl. Conf.] J. Kang, D. Lee, J.-H. Park, T.-H. An, <ins>D. Choi</ins>, K.-W. Min, S. Lee, "Insta-Track: Instance Segmentation Assisted Tracking by Detection," The 15th Intl. Conf. on ICT Convergence.** 
 
