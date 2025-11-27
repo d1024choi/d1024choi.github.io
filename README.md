@@ -1,6 +1,6 @@
 ## Career
 + **Senior Engineer, Samsung Electronics (Mar. 2014 ~ Jan. 2017)**
-+ **Principan Researcher, Electronics and Telecommunications Research Institute (ETRI) (Feb. 2017 ~ Now)**
++ **Principal Researcher, Electronics and Telecommunications Research Institute (ETRI) (Feb. 2017 ~ Now)**
 + **Associate Professor, Department of AI, University of Science and Technology (UST) (Mar. 2023 ~ Now)**
 
 ## Education
