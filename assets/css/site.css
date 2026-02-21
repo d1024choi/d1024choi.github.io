@@ -199,6 +199,15 @@ a {
   border-radius: 0.55rem;
 }
 
+.hero-note {
+  margin-top: 0.9rem;
+  color: var(--muted);
+}
+
+.hero-note a {
+  font-weight: 700;
+}
+
 .news-list {
   list-style: none;
   padding: 0;
