@@ -26,6 +26,8 @@
 ## Publications
 \* corresponding author
 
++ **[Intl Conf.] J. Hong, <ins>D. Choi</ins>\*,  T. An, K. An, K. Min, "CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird’s-Eye-View Semantic Segmentation," CVPR 2026. (Accepted)**
+
 + **[Domestic Jour.] M. Rahman, J. Hong, <ins>D. Choi</ins>\*, K. Min, "Interaction Graph Pruning for Efficient and Robust Trajectory Prediction," Trans. of KSAE 2025. (Accepted)**
 
 + **[Intl. Conf.] J. Hong\*, <ins>D. Choi</ins>, M. Rahman, K. An, K.-W. Min, "Regularizing Neural Networks for BEV Semantic Segmentation via Inter-class Hierarchy and Spatially-aware Weight Adjustment," 16th International Conference on Information and Communication Technology Convergence (ICTC), 2025**
